@@ -8,4 +8,4 @@ This project is a simple ToDo List application built with a MERN stack, featurin
 To clone the repository, use the following command:
 
 ```bash
-git https://github.com/harikrishnaalvala/todo-assignment.git
+git https://github.com/SuprajaMamidi/todo-assignment.git
